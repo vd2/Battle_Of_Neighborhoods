@@ -1,4 +1,4 @@
-# Battle_Of_Neighborhoods
+# The Battle Of Neighborhoods
 ### *A repo for a final IBM Coursera project*
 
 Files:
