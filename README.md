@@ -3,4 +3,4 @@
 
 Files:
 1. [`final_intro.ipynb`](final_intro.ipynb)
-  * The introductory part of the report (to come) containing two chapters *Introduction* and *Data*
+   * The introductory part of the report (to come) containing two chapters *Introduction* and *Data*
