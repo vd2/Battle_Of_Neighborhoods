@@ -232,7 +232,7 @@ The author's recommendation to the subsequent researchers would be to concentrat
 
 
 
-<center># Thanks for your attention!</center>
+#<center> Thanks for your attention!</center>
 
 
 
