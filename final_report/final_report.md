@@ -1,9 +1,5 @@
 <center>
-    <H2>
-        <b>
-            <font face='monospace'>Choosing a place for a vegetarian eatery </br>in New York, Los Angeles and Chicago</font>
-        </b>
-    </H2>
+# Choosing a place for a vegetarian eatery </br>in New York, Los Angeles and Chicago
 </center>
 
 
