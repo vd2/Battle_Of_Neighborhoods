@@ -11,4 +11,5 @@ Files:
 4. [`final_proj_analysis.ipynb`](data_preparation.ipynb)
    * The notebook with data analysis code
 5. The folder [`final_report`](final_report) contains the report both in markdown and html format.
+   The final report is also available from [this link](https://vdmitriyev.blogspot.com/p/finalreport.html) at Blogspot.
 
