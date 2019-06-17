@@ -10,10 +10,6 @@
 
 
 
-## Contents
-
-[TOC]
-
 ## 1. Introduction
 
 ### 1.1. The Background Information
@@ -236,7 +232,7 @@ The author's recommendation to the subsequent researchers would be to concentrat
 
 
 
-<center><font size='20'>Thanks for your attention!</font></center>
+<center># Thanks for your attention!</center>
 
 
 
