@@ -1,9 +1,6 @@
-<center>
+
 # Choosing a place for a vegetarian eatery </br>in New York, Los Angeles and Chicago
-</center>
-
-
-
+----------
 
 
 ## 1. Introduction
@@ -226,9 +223,7 @@ The author's recommendation to the subsequent researchers would be to concentrat
 
 
 
-
-
-#<center> Thanks for your attention!</center>
+# Thanks for your attention!
 
 
 
