@@ -1,6 +1,5 @@
 
 # Choosing a place for a vegetarian eatery </br>in New York, Los Angeles and Chicago
-----------
 
 
 ## 1. Introduction
